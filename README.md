@@ -1,4 +1,5 @@
-These are the color codes:
+**These are the color codes:**
+______________________________
 
 Green: \033[32m
 
